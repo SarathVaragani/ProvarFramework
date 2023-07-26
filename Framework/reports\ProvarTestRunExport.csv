@@ -1,0 +1,4 @@
+run id, started, ended, path, name, successful, skipped, failed, total, failure Message
+1,2023-07-26 16:34:59.542,2023-07-26 16:42:29.993,/Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/Framework/tests/Regression Tests,Createcase.testcase,1,0,0,,
+1,2023-07-26 16:42:35.731,2023-07-26 16:42:35.774,/Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/Framework/tests,Test Case 1.testcase,1,0,0,,
+Summary,2023-07-26 16:34:59.542,2023-07-26 16:42:35.986,,,2,0,0,2

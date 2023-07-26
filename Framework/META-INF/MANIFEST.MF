@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: YH-TS1
+Bundle-SymbolicName: YH-TS1
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: com.provar.core.testapi,
+ com.provar.core.model.base,
+ com.provar.core.lib.selenium,
+ com.provar.core.model.ui,
+ com.provar.testrunner,
+ com.provar.plugins.sf.apis
+Automatic-Module-Name: YH-TS1
+Bundle-RequiredExecutionEnvironment: JavaSE-11

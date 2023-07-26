@@ -1,0 +1,15 @@
+2023/07/26-16:35:26.183 a407 Creating DB /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb since it was missing.
+2023/07/26-16:35:26.355 a407 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/26-16:35:28.670 b603 Level-0 table #5: started
+2023/07/26-16:35:28.730 b603 Level-0 table #5: 125368 bytes OK
+2023/07/26-16:35:28.789 b603 Delete type=0 #3
+2023/07/26-16:35:28.831 a707 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/07/26-16:40:05.036 f203 Level-0 table #7: started
+2023/07/26-16:40:05.099 f203 Level-0 table #7: 2878187 bytes OK
+2023/07/26-16:40:05.144 f203 Delete type=0 #4
+2023/07/26-16:40:23.909 a407 Compacting 1@1 + 1@2 files
+2023/07/26-16:40:23.968 a407 Generated table #8@1: 587 keys, 1032633 bytes
+2023/07/26-16:40:23.968 a407 Compacted 1@1 + 1@2 files => 1032633 bytes
+2023/07/26-16:40:24.010 a407 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/26-16:40:24.012 a407 Delete type=2 #7
+2023/07/26-16:40:24.045 a407 Delete type=2 #5
