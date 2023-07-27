@@ -67,25 +67,6 @@
         <clause name="hidden" testItemId="27"/>
       </clauses>
     </apiCall>
-    <apiCall apiId="com.provar.plugins.bundled.apis.control.SetValues" name="SetValues" testItemId="74" title="Set Values: PickListValues">
-      <arguments>
-        <argument id="values">
-          <value class="valueList" mutable="Mutable">
-            <namedValues mutable="Mutable">
-              <namedValue name="valuePath">
-                <value class="value" valueClass="string">PickListValues</value>
-              </namedValue>
-              <namedValue name="value">
-                <value class="value" valueClass="string">val1,sjdj,</value>
-              </namedValue>
-              <namedValue name="valueScope">
-                <value class="value" valueClass="string">Test</value>
-              </namedValue>
-            </namedValues>
-          </value>
-        </argument>
-      </arguments>
-    </apiCall>
     <apiCall apiId="com.provar.plugins.bundled.apis.control.ForEach" name="ForEach" testItemId="28" title="For Each: {SourceData}=&gt;Row">
       <arguments>
         <argument id="list">
@@ -995,4 +976,5 @@
       </clauses>
     </apiCall>
   </steps>
+  <tags/>
 </testCase>
