@@ -1,3 +1,3 @@
 run id, started, ended, path, name, successful, skipped, failed, total, failure Message
-14,2023-07-27 10:51:38.935,2023-07-27 10:58:33.374,/Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/Framework/tests/Smoke Tests,Smoke_Createcase.testcase,1,0,0,,
-Summary,2023-07-27 10:51:38.935,2023-07-27 10:58:36.492,,,1,0,0,1
+26,2023-07-28 11:51:29.415,2023-07-28 11:51:31.936,/Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/Framework/tests/API Tests,InternalAPI_CreateContact.testcase,1,0,0,,
+Summary,2023-07-28 11:51:29.415,2023-07-28 11:51:31.996,,,1,0,0,1

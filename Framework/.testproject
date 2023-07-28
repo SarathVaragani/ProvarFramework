@@ -19,6 +19,18 @@
         </connection>
       </connections>
     </connectionClass>
+    <connectionClass name="webservice">
+      <connections>
+        <connection id="679dc7ac-3bdf-4c34-9a61-c9a30b74e53b" name="API_TestsConnection">
+          <summary/>
+          <connectionUrls>
+            <connectionUrl url="restservice:url=https://reqres.in;authenticationType=NO_AUTHENTICATION">
+              <customHeaders/>
+            </connectionUrl>
+          </connectionUrls>
+        </connection>
+      </connections>
+    </connectionClass>
   </connectionClasses>
   <browserConfigurations>
     <browserConfiguration adjustBrowserWidthForChromeIde="true" browserHeight="0" browserWidth="0" name="Full Screen">
