@@ -1,21 +1,9 @@
-2023/07/27-13:59:38.050 a203 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile1/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/07/27-13:59:38.056 a203 Recovering log #26
-2023/07/27-13:59:38.062 a203 Reusing old log /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile1/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/000026.log 
-2023/07/27-13:59:42.354 b603 Compacting 1@1 + 1@2 files
-2023/07/27-13:59:42.437 b603 Generated table #29@1: 828 keys, 1074637 bytes
-2023/07/27-13:59:42.437 b603 Compacted 1@1 + 1@2 files => 1074637 bytes
-2023/07/27-13:59:42.511 b603 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/07/27-13:59:42.514 b603 Delete type=2 #27
-2023/07/27-13:59:42.531 b603 Delete type=2 #25
-2023/07/27-14:01:08.824 a203 Level-0 table #31: started
-2023/07/27-14:01:08.896 a203 Level-0 table #31: 2303735 bytes OK
-2023/07/27-14:01:08.985 a203 Delete type=0 #26
-2023/07/27-14:02:05.565 a203 Compacting 1@1 + 1@2 files
-2023/07/27-14:02:05.708 a203 Generated table #32@1: 738 keys, 642656 bytes
-2023/07/27-14:02:05.708 a203 Compacted 1@1 + 1@2 files => 642656 bytes
-2023/07/27-14:02:05.749 a203 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/07/27-14:02:05.751 a203 Delete type=2 #29
-2023/07/27-14:02:05.751 a203 Delete type=2 #31
-2023/07/27-14:06:38.000 a203 Level-0 table #34: started
-2023/07/27-14:06:38.085 a203 Level-0 table #34: 3132958 bytes OK
-2023/07/27-14:06:38.126 a203 Delete type=0 #30
+2023/08/02-15:18:07.047 8603 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile1/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/02-15:18:07.052 8603 Recovering log #33
+2023/08/02-15:18:07.056 8603 Reusing old log /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile1/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/000033.log 
+2023/08/02-15:18:10.622 8603 Compacting 1@1 + 1@2 files
+2023/08/02-15:18:10.702 8603 Generated table #36@1: 1004 keys, 584920 bytes
+2023/08/02-15:18:10.702 8603 Compacted 1@1 + 1@2 files => 584920 bytes
+2023/08/02-15:18:10.720 8603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/02-15:18:10.723 8603 Delete type=2 #34
+2023/08/02-15:18:10.723 8603 Delete type=2 #32

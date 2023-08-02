@@ -58,6 +58,7 @@ public class TestRunMonitorDemo extends AbstractTestRunMonitor {
             e.printStackTrace();
         }
     }
+
     
     @Override
     public void writeTestRunSummary(IExecutionItem rootExecutionItem) {
@@ -73,4 +74,4 @@ public class TestRunMonitorDemo extends AbstractTestRunMonitor {
             e.printStackTrace();
         }
     }
-}
+} 
