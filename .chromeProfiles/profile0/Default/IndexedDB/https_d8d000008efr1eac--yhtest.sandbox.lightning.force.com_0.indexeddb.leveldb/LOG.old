@@ -1,6 +1,12 @@
-2023/08/02-15:16:02.341 8307 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/08/02-15:16:02.344 8307 Recovering log #39
-2023/08/02-15:16:02.351 8307 Reusing old log /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/000039.log 
-2023/08/02-15:16:07.860 a503 Level-0 table #44: started
-2023/08/02-15:16:07.956 a503 Level-0 table #44: 2456032 bytes OK
-2023/08/02-15:16:08.011 a503 Delete type=0 #39
+2023/08/02-16:42:27.743 b703 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/02-16:42:27.744 b703 Recovering log #53
+2023/08/02-16:42:27.751 b703 Reusing old log /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/000053.log 
+2023/08/02-16:42:28.555 a607 Level-0 table #58: started
+2023/08/02-16:42:28.613 a607 Level-0 table #58: 3131056 bytes OK
+2023/08/02-16:42:28.654 a607 Delete type=0 #53
+2023/08/02-16:42:34.756 a203 Compacting 1@1 + 1@2 files
+2023/08/02-16:42:34.856 a203 Generated table #59@1: 1339 keys, 1302389 bytes
+2023/08/02-16:42:34.856 a203 Compacted 1@1 + 1@2 files => 1302389 bytes
+2023/08/02-16:42:34.898 a203 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/02-16:42:34.900 a203 Delete type=2 #58
+2023/08/02-16:42:34.900 a203 Delete type=2 #55

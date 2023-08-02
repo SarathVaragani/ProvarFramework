@@ -1,9 +1,12 @@
-2023/08/02-15:17:21.410 8803 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/08/02-15:17:21.412 8803 Recovering log #43
-2023/08/02-15:17:21.416 8803 Reusing old log /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/000043.log 
-2023/08/02-15:17:24.403 8803 Compacting 1@1 + 1@2 files
-2023/08/02-15:17:24.531 8803 Generated table #46@1: 854 keys, 521162 bytes
-2023/08/02-15:17:24.549 8803 Compacted 1@1 + 1@2 files => 521162 bytes
-2023/08/02-15:17:24.588 8803 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/08/02-15:17:24.589 8803 Delete type=2 #41
-2023/08/02-15:17:24.610 8803 Delete type=2 #44
+2023/08/02-16:45:18.757 a403 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/02-16:45:18.759 a403 Recovering log #57
+2023/08/02-16:45:18.776 a403 Reusing old log /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/000057.log 
+2023/08/02-16:45:19.354 a403 Level-0 table #62: started
+2023/08/02-16:45:19.403 a403 Level-0 table #62: 2514787 bytes OK
+2023/08/02-16:45:19.478 a403 Delete type=0 #57
+2023/08/02-16:45:23.060 a403 Compacting 1@1 + 1@2 files
+2023/08/02-16:45:23.171 a403 Generated table #63@1: 1104 keys, 727476 bytes
+2023/08/02-16:45:23.171 a403 Compacted 1@1 + 1@2 files => 727476 bytes
+2023/08/02-16:45:23.227 a403 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/02-16:45:23.276 a403 Delete type=2 #62
+2023/08/02-16:45:23.276 a403 Delete type=2 #59

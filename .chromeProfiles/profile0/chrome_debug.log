@@ -1,7 +1,35 @@
-[65860:259:0802/162411.114999:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 115.0.5790.114 (not a warning)
-[65860:259:0802/162411.479250:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
-[65860:259:0802/162411.484706:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
-[65866:259:0802/162412.015627:ERROR:mach_port_rendezvous.cc(316)] bootstrap_look_up com.google.Chrome.MachPortRendezvousServer.1: Permission denied (1100)
-[65867:259:0802/162412.050424:ERROR:mach_port_rendezvous.cc(316)] bootstrap_look_up com.google.Chrome.MachPortRendezvousServer.1: Permission denied (1100)
-[65867:259:0802/162412.053615:ERROR:child_thread_impl.cc(231)] Mach rendezvous failed, terminating process (parent died?)
-[65866:259:0802/162413.071277:ERROR:child_thread_impl.cc(231)] Mach rendezvous failed, terminating process (parent died?)
+[71949:259:0802/164503.175514:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 115.0.5790.114 (not a warning)
+[71949:259:0802/164503.768868:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[71949:259:0802/164503.772969:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[71949:259:0802/164504.048614:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[71949:259:0802/164504.048680:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[71949:259:0802/164504.054321:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[71949:259:0802/164508.325573:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://d8d000008efr1eac--yhtest.sandbox.my.salesforce.com/s.gif (0)
+[71949:259:0802/164508.661630:INFO:CONSOLE(1)] "Could not load taxonomy information for the current page due server status", source: https://www.salesforce.com/etc/clientlibs/sfdc-aem-master/clientlibs_www_tags.min.js (1)
+[71949:259:0802/164508.859230:INFO:CONSOLE(1)] "Error", source: https://spider.australiarevival.com/i/5d421499287bb62bd452311781db1729.js (1)
+[71949:259:0802/164511.776435:INFO:CONSOLE(1)] "Failed to retrive resource /wbin/www-core/f/g", source: https://www.salesforce.com/etc.bundles/sfdc-www/bundles/webpack-script-manifest-commonlyUsed-js.bundle.356d5cf5c4f544ae3846.js (1)
+[71949:259:0802/164518.749492:INFO:CONSOLE(13)] "Failed to set the value "true" for the runtime feature flag "ENABLE_LIGHT_GET_ROOT_NODE_PATCH" because it is undefined. Available flags: "DUMMY_TEST_FLAG", "ENABLE_FORCE_NATIVE_SHADOW_MODE_FOR_TEST", "ENABLE_MIXED_SHADOW_MODE", "ENABLE_NATIVE_CUSTOM_ELEMENT_LIFECYCLE", "ENABLE_WIRE_SYNC_EMIT", "DISABLE_LIGHT_DOM_UNSCOPED_CSS", "ENABLE_FROZEN_TEMPLATE", "DISABLE_ARIA_REFLECTION_POLYFILL".", source: https://static.lightning.force.com/cs127/auraFW/javascript/MlRqRU5YT3pjWFRNenJranFOMWFjQXlMaWFpdmxPSTZWeEo0bWtiN0hsaXcyNDQuMjAuNC0yLjQxLjQ/aura_prod.js (13)
+[71949:259:0802/164518.844686:INFO:CONSOLE(1)] "ComponentProfiler: Component-level profiling has not been enabled because "componentProfiler.instrumentation.ltng" gate is not open.", source: https://d8d000008efr1eac--yhtest.sandbox.lightning.force.com/components/instrumentation/componentProfiler.js (1)
+[71949:259:0802/164519.677157:INFO:CONSOLE(13)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://static.lightning.force.com/cs127/auraFW/javascript/MlRqRU5YT3pjWFRNenJranFOMWFjQXlMaWFpdmxPSTZWeEo0bWtiN0hsaXcyNDQuMjAuNC0yLjQxLjQ/aura_prod.js (13)
+[71949:259:0802/164519.787658:INFO:CONSOLE(4)] "empApi setting initialized true for : undefined", source: https://d8d000008efr1eac--yhtest.sandbox.lightning.force.com/components/force/empApi.js (4)
+[71949:259:0802/164520.148369:INFO:CONSOLE(1)] "<lightning-spinner> The alternativeText attribute should not be empty. Please add a description of what is causing the wait.", source: https://d8d000008efr1eac--yhtest.sandbox.lightning.force.com/components/lightning/spinner.js (1)
+[71949:259:0802/164521.373140:INFO:CONSOLE(13)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://static.lightning.force.com/cs127/auraFW/javascript/MlRqRU5YT3pjWFRNenJranFOMWFjQXlMaWFpdmxPSTZWeEo0bWtiN0hsaXcyNDQuMjAuNC0yLjQxLjQ/aura_prod.js (13)
+[71949:259:0802/164523.628664:INFO:CONSOLE(41)] "[object Object]", source: https://d8d000008efr1eac--yhtest.sandbox.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (41)
+[71949:259:0802/164523.727133:INFO:CONSOLE(1)] "[ORCHESTRATION] In-App Guidance is disabled. To enable In-App Guidance, visit the settings modal on the In-App Guidance Setup Page.", source: https://d8d000008efr1eac--yhtest.sandbox.lightning.force.com/components/one/onboardingManagerLibPrivate.js (1)
+[71949:259:0802/164525.097180:INFO:CONSOLE(41)] "[object Object]", source: https://d8d000008efr1eac--yhtest.sandbox.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (41)
+[71949:259:0802/164526.700182:INFO:CONSOLE(41)] "[object Object]", source: https://d8d000008efr1eac--yhtest.sandbox.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (41)
+[71949:259:0802/164529.351327:INFO:CONSOLE(41)] "[object Object]", source: https://d8d000008efr1eac--yhtest.sandbox.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (41)
+[71949:259:0802/164537.875088:INFO:CONSOLE(1513)] "[object HTMLDivElement]", source:  (1513)
+[71949:259:0802/164538.209961:INFO:CONSOLE(1513)] "[object HTMLDivElement]", source:  (1513)
+[71949:259:0802/164539.608771:INFO:CONSOLE(1513)] "[object HTMLDivElement]", source:  (1513)
+[71949:259:0802/164539.783388:INFO:CONSOLE(1513)] "[object HTMLDivElement]", source:  (1513)
+[71949:259:0802/164540.569115:INFO:CONSOLE(1513)] "[object HTMLDivElement]", source:  (1513)
+[71949:259:0802/164550.053569:INFO:CONSOLE(1513)] "[object HTMLDivElement]", source:  (1513)
+[71949:259:0802/164550.732554:INFO:CONSOLE(1513)] "[object HTMLDivElement]", source:  (1513)
+[71949:259:0802/164550.863226:INFO:CONSOLE(1513)] "[object HTMLDivElement]", source:  (1513)
+[71949:259:0802/164552.899201:INFO:CONSOLE(1513)] "[object HTMLDivElement]", source:  (1513)
+[71949:259:0802/164553.604169:INFO:CONSOLE(1513)] "[object HTMLDivElement]", source:  (1513)
+[71949:259:0802/164553.867876:INFO:CONSOLE(1513)] "[object HTMLDivElement]", source:  (1513)
+[71949:259:0802/164554.381071:INFO:CONSOLE(1513)] "[object HTMLDivElement]", source:  (1513)
+[71949:259:0802/164554.476833:INFO:CONSOLE(1513)] "[object HTMLElement]", source:  (1513)
+[71949:259:0802/164557.457621:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

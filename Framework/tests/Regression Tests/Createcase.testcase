@@ -240,7 +240,7 @@
               <clauses>
                 <clause name="substeps" testItemId="56">
                   <steps>
-                    <apiCall apiId="com.provar.plugins.forcedotcom.core.ui.UiWithRow" name="UiWithRow" testItemId="57" title="With Available Record Types Table {recordTypeName = &quot;Enquiry&quot;}">
+                    <apiCall apiId="com.provar.plugins.forcedotcom.core.ui.UiWithRow" name="UiWithRow" testItemId="57" title="With Available Record Types Table {recordTypeName = &quot;Complaint&quot;}">
                       <arguments>
                         <argument id="uiConnectionName">
                           <value class="value" valueClass="string">YHTest_Admin</value>
@@ -253,11 +253,11 @@
                             <lhs class="variable">
                               <path element="recordTypeName"/>
                             </lhs>
-                            <rhs class="value" valueClass="string">Enquiry</rhs>
+                            <rhs class="value" valueClass="string">Complaint</rhs>
                           </value>
                         </argument>
                         <argument id="locatorDescription">
-                          <value class="value" valueClass="string">With Available Record Types Table {recordTypeName = "Enquiry"}</value>
+                          <value class="value" valueClass="string">With Available Record Types Table {recordTypeName = "Complaint"}</value>
                         </argument>
                         <argument id="failIfNotFound">
                           <value class="value" valueClass="boolean">true</value>
@@ -290,7 +290,7 @@
                                       <fieldLocator uri="ui:locator?binding=sf%3Aui%3Abinding%3Aobject%3Fobject%3D%7BtargetUrl%3Aobject%7D%26field%3DrecordTypeName&amp;name=recordTypeName"/>
                                       <attributeAssertions>
                                         <uiAttributeAssertion attributeName="value" comparisonType="EqualTo" normalize="true">
-                                          <value class="value" valueClass="string">Enquiry</value>
+                                          <value class="value" valueClass="string">Complaint</value>
                                         </uiAttributeAssertion>
                                       </attributeAssertions>
                                     </uiFieldAssertion>
@@ -313,7 +313,7 @@
                         </clause>
                       </clauses>
                     </apiCall>
-                    <apiCall apiId="com.provar.plugins.forcedotcom.core.ui.UiWithRow" name="UiWithRow" testItemId="60" title="With Available Record Types Table {recordTypeName = &quot;Enquiry&quot; AND recordTypeDescription = &quot;Record type to hold the enquiry information for various cases&quot;}">
+                    <apiCall apiId="com.provar.plugins.forcedotcom.core.ui.UiWithRow" name="UiWithRow" testItemId="60" title="With Available Record Types Table {recordTypeName = &quot;Complaint&quot; AND recordTypeDescription = &quot;Record type to hold the complaint information for various cases&quot;}">
                       <arguments>
                         <argument id="uiConnectionName">
                           <value class="value" valueClass="string">YHTest_Admin</value>
@@ -327,18 +327,18 @@
                               <lhs class="variable">
                                 <path element="recordTypeName"/>
                               </lhs>
-                              <rhs class="value" valueClass="string">Enquiry</rhs>
+                              <rhs class="value" valueClass="string">Complaint</rhs>
                             </lhs>
                             <rhs class="eq">
                               <lhs class="variable">
                                 <path element="recordTypeDescription"/>
                               </lhs>
-                              <rhs class="value" valueClass="string">Record type to hold the enquiry information for various cases</rhs>
+                              <rhs class="value" valueClass="string">Record type to hold the complaint information for various cases</rhs>
                             </rhs>
                           </value>
                         </argument>
                         <argument id="locatorDescription">
-                          <value class="value" valueClass="string">With Available Record Types Table {recordTypeName = "Enquiry" AND recordTypeDescription = "Record type to hold the enquiry information for various cases"}</value>
+                          <value class="value" valueClass="string">With Available Record Types Table {recordTypeName = "Complaint" AND recordTypeDescription = "Record type to hold the complaint information for various cases"}</value>
                         </argument>
                         <argument id="failIfNotFound">
                           <value class="value" valueClass="boolean">true</value>
@@ -371,7 +371,7 @@
                                       <fieldLocator uri="ui:locator?binding=sf%3Aui%3Abinding%3Aobject%3Fobject%3D%7BtargetUrl%3Aobject%7D%26field%3DrecordTypeDescription&amp;name=recordTypeDescription"/>
                                       <attributeAssertions>
                                         <uiAttributeAssertion attributeName="value" comparisonType="EqualTo" normalize="true">
-                                          <value class="value" valueClass="string">Record type to hold the enquiry information for various cases</value>
+                                          <value class="value" valueClass="string">Record type to hold the complaint information for various cases</value>
                                         </uiAttributeAssertion>
                                       </attributeAssertions>
                                     </uiFieldAssertion>
@@ -462,19 +462,19 @@
                 </apiParam>
               </generatedParameters>
             </apiCall>
-            <apiCall apiId="com.provar.plugins.forcedotcom.core.ui.UiWithScreen" name="UiWithScreen" testItemId="64" title="On SF Case (Enquiry) New screen">
+            <apiCall apiId="com.provar.plugins.forcedotcom.core.ui.UiWithScreen" name="UiWithScreen" testItemId="64" title="On SF Case (Complaint) New screen">
               <arguments>
                 <argument id="uiConnectionName">
                   <value class="value" valueClass="string">YHTest_Admin</value>
                 </argument>
                 <argument id="target">
-                  <value class="uiTarget" uri="sf:ui:target?noOverride=true&amp;recordType=Enquiry&amp;object=Case&amp;action=New"/>
+                  <value class="uiTarget" uri="sf:ui:target?recordType=Complaint&amp;noOverride=true&amp;object=Case&amp;action=New"/>
                 </argument>
                 <argument id="navigate">
                   <value class="value" valueClass="string">Dont</value>
                 </argument>
                 <argument id="targetDescription">
-                  <value class="value" valueClass="string">On SF Case (Enquiry) New screen</value>
+                  <value class="value" valueClass="string">On SF Case (Complaint) New screen</value>
                 </argument>
                 <argument id="windowSelection">
                   <value class="value" valueClass="string">Default</value>
@@ -970,7 +970,7 @@
                   </type>
                 </apiParam>
                 <apiParam group="result" name="sfUiTargetResultName" resultNameParameter="true" title="Result Name">
-                  <summary>The name under which the resulting Object Id will be stored.</summary>
+                  <summary>The name under which the resulting Case Id will be stored.</summary>
                   <type>
                     <textType/>
                   </type>

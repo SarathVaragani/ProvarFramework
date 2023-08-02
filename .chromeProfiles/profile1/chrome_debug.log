@@ -1,7 +1,3 @@
-[49876:259:0802/152826.893922:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 115.0.5790.114 (not a warning)
-[49876:259:0802/152827.335019:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
-[49876:259:0802/152827.342109:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
-[49887:259:0802/152827.719041:ERROR:mach_port_rendezvous.cc(316)] bootstrap_look_up com.google.Chrome.MachPortRendezvousServer.1: Permission denied (1100)
-[49888:259:0802/152827.760301:ERROR:mach_port_rendezvous.cc(316)] bootstrap_look_up com.google.Chrome.MachPortRendezvousServer.1: Permission denied (1100)
-[49888:259:0802/152827.763344:ERROR:child_thread_impl.cc(231)] Mach rendezvous failed, terminating process (parent died?)
-[49887:259:0802/152828.512886:ERROR:child_thread_impl.cc(231)] Mach rendezvous failed, terminating process (parent died?)
+[67299:259:0802/162926.209638:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 115.0.5790.114 (not a warning)
+[67299:259:0802/162926.543859:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[67299:259:0802/162926.548469:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
