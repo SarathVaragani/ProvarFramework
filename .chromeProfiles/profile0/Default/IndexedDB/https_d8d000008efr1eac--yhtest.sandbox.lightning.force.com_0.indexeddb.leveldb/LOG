@@ -1,12 +1,21 @@
-2023/08/02-16:45:18.757 a403 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/08/02-16:45:18.759 a403 Recovering log #57
-2023/08/02-16:45:18.776 a403 Reusing old log /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/000057.log 
-2023/08/02-16:45:19.354 a403 Level-0 table #62: started
-2023/08/02-16:45:19.403 a403 Level-0 table #62: 2514787 bytes OK
-2023/08/02-16:45:19.478 a403 Delete type=0 #57
-2023/08/02-16:45:23.060 a403 Compacting 1@1 + 1@2 files
-2023/08/02-16:45:23.171 a403 Generated table #63@1: 1104 keys, 727476 bytes
-2023/08/02-16:45:23.171 a403 Compacted 1@1 + 1@2 files => 727476 bytes
-2023/08/02-16:45:23.227 a403 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/08/02-16:45:23.276 a403 Delete type=2 #62
-2023/08/02-16:45:23.276 a403 Delete type=2 #59
+2023/08/02-16:57:16.368 8307 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/02-16:57:16.371 8307 Recovering log #61
+2023/08/02-16:57:16.383 8307 Reusing old log /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/IndexedDB/https_d8d000008efr1eac--yhtest.sandbox.lightning.force.com_0.indexeddb.leveldb/000061.log 
+2023/08/02-16:57:18.494 a203 Level-0 table #66: started
+2023/08/02-16:57:18.666 a203 Level-0 table #66: 2353671 bytes OK
+2023/08/02-16:57:18.709 a203 Delete type=0 #61
+2023/08/02-16:57:21.423 a203 Compacting 1@1 + 1@2 files
+2023/08/02-16:57:21.522 a203 Generated table #67@1: 1185 keys, 1035199 bytes
+2023/08/02-16:57:21.522 a203 Compacted 1@1 + 1@2 files => 1035199 bytes
+2023/08/02-16:57:21.582 a203 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/02-16:57:21.586 a203 Delete type=2 #63
+2023/08/02-16:57:21.586 a203 Delete type=2 #66
+2023/08/02-16:59:56.241 a203 Level-0 table #69: started
+2023/08/02-16:59:56.322 a203 Level-0 table #69: 3021903 bytes OK
+2023/08/02-16:59:56.417 a203 Delete type=0 #65
+2023/08/02-17:01:45.132 a203 Compacting 1@1 + 1@2 files
+2023/08/02-17:01:45.179 a203 Generated table #70@1: 1397 keys, 1425625 bytes
+2023/08/02-17:01:45.179 a203 Compacted 1@1 + 1@2 files => 1425625 bytes
+2023/08/02-17:01:45.221 a203 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/02-17:01:45.223 a203 Delete type=2 #67
+2023/08/02-17:01:45.223 a203 Delete type=2 #69

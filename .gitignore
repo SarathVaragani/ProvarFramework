@@ -117,3 +117,4 @@
 .chromeProfiles/profile1/Local State
 .chromeProfiles/profile1/ShaderCache/index
 .chromeProfiles/profile1/Variations
+*.log

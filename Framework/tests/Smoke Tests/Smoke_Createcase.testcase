@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testCase id="0">
+<testCase id="10">
   <summary/>
   <steps>
     <apiCall apiId="com.provar.plugins.forcedotcom.core.testapis.ApexConnect" name="ApexConnect" testItemId="1" title="Salesforce Connect: YHTest_Admin (Test)">
@@ -363,19 +363,19 @@
                 </apiParam>
               </generatedParameters>
             </apiCall>
-            <apiCall apiId="com.provar.plugins.forcedotcom.core.ui.UiWithScreen" name="UiWithScreen" testItemId="64" title="On SF Case (Enquiry) New screen">
+            <apiCall apiId="com.provar.plugins.forcedotcom.core.ui.UiWithScreen" name="UiWithScreen" testItemId="64" title="On SF Case (Complaint) New screen">
               <arguments>
                 <argument id="uiConnectionName">
                   <value class="value" valueClass="string">YHTest_Admin</value>
                 </argument>
                 <argument id="target">
-                  <value class="uiTarget" uri="sf:ui:target?noOverride=true&amp;recordType=Enquiry&amp;object=Case&amp;action=New"/>
+                  <value class="uiTarget" uri="sf:ui:target?recordType=Complaint&amp;noOverride=true&amp;object=Case&amp;action=New"/>
                 </argument>
                 <argument id="navigate">
                   <value class="value" valueClass="string">Dont</value>
                 </argument>
                 <argument id="targetDescription">
-                  <value class="value" valueClass="string">On SF Case (Enquiry) New screen</value>
+                  <value class="value" valueClass="string">On SF Case (Complaint) New screen</value>
                 </argument>
                 <argument id="windowSelection">
                   <value class="value" valueClass="string">Default</value>
@@ -871,7 +871,7 @@
                   </type>
                 </apiParam>
                 <apiParam group="result" name="sfUiTargetResultName" resultNameParameter="true" title="Result Name">
-                  <summary>The name under which the resulting Object Id will be stored.</summary>
+                  <summary>The name under which the resulting Case Id will be stored.</summary>
                   <type>
                     <textType/>
                   </type>
