@@ -118,4 +118,4 @@
 .chromeProfiles/profile1/ShaderCache/index
 .chromeProfiles/profile1/Variations
 *.log
-*.chromeprofiles*
+*.chromeProfiles*
