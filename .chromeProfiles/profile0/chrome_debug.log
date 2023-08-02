@@ -1,7 +1,7 @@
-[49745:259:0802/152809.364221:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 115.0.5790.114 (not a warning)
-[49745:259:0802/152809.691110:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
-[49745:259:0802/152809.695315:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
-[49755:259:0802/152810.025528:ERROR:mach_port_rendezvous.cc(316)] bootstrap_look_up com.google.Chrome.MachPortRendezvousServer.1: Permission denied (1100)
-[49756:259:0802/152810.039032:ERROR:mach_port_rendezvous.cc(316)] bootstrap_look_up com.google.Chrome.MachPortRendezvousServer.1: Permission denied (1100)
-[49756:259:0802/152810.041681:ERROR:child_thread_impl.cc(231)] Mach rendezvous failed, terminating process (parent died?)
-[49755:259:0802/152810.884825:ERROR:child_thread_impl.cc(231)] Mach rendezvous failed, terminating process (parent died?)
+[65860:259:0802/162411.114999:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 115.0.5790.114 (not a warning)
+[65860:259:0802/162411.479250:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[65860:259:0802/162411.484706:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[65866:259:0802/162412.015627:ERROR:mach_port_rendezvous.cc(316)] bootstrap_look_up com.google.Chrome.MachPortRendezvousServer.1: Permission denied (1100)
+[65867:259:0802/162412.050424:ERROR:mach_port_rendezvous.cc(316)] bootstrap_look_up com.google.Chrome.MachPortRendezvousServer.1: Permission denied (1100)
+[65867:259:0802/162412.053615:ERROR:child_thread_impl.cc(231)] Mach rendezvous failed, terminating process (parent died?)
+[65866:259:0802/162413.071277:ERROR:child_thread_impl.cc(231)] Mach rendezvous failed, terminating process (parent died?)
