@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testProject selectedBrowserProviderDeviceName="Full Screen" selectedBrowserProviderName="Desktop">
+<testProject selectedBrowserProviderDeviceName="Full Screen" selectedBrowserProviderName="Desktop" selectedEnvironment="QA">
   <title>/Framework/.testproject</title>
   <configPath>config</configPath>
   <testsPath>tests</testsPath>
@@ -8,6 +8,11 @@
   <sourcePath>src</sourcePath>
   <secureStoragePath>.secrets</secureStoragePath>
   <browserDebugPort>0</browserDebugPort>
+  <environments>
+    <environment name="QA">
+      <summary/>
+    </environment>
+  </environments>
   <connectionClasses>
     <connectionClass name="sf">
       <connections>

@@ -1,14 +1,8 @@
-2023/08/02-16:57:01.643 3e03 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/Local Storage/leveldb/MANIFEST-000001
-2023/08/02-16:57:01.647 3e03 Recovering log #12
-2023/08/02-16:57:01.649 3e03 Reusing old log /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/Local Storage/leveldb/000012.log 
-2023/08/02-17:01:16.045 3b03 Level-0 table #15: started
-2023/08/02-17:01:16.075 3b03 Level-0 table #15: 12142 bytes OK
-2023/08/02-17:01:16.119 3b03 Delete type=0 #12
-2023/08/02-17:01:16.121 3b03 Compacting 4@0 + 0@1 files
-2023/08/02-17:01:16.146 3b03 Generated table #16@0: 12 keys, 2647 bytes
-2023/08/02-17:01:16.147 3b03 Compacted 4@0 + 0@1 files => 2647 bytes
-2023/08/02-17:01:16.188 3b03 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/08/02-17:01:16.191 3b03 Delete type=2 #15
-2023/08/02-17:01:16.192 3b03 Delete type=2 #7
-2023/08/02-17:01:16.193 3b03 Delete type=2 #12
-2023/08/02-17:01:16.194 3b03 Delete type=2 #10
+2023/08/04-12:14:52.874 3e03 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/04-12:14:52.907 3e03 Recovering log #14
+2023/08/04-12:14:52.927 3e03 Level-0 table #18: started
+2023/08/04-12:14:52.968 3e03 Level-0 table #18: 13560 bytes OK
+2023/08/04-12:14:52.981 3e03 Recovering log #18
+2023/08/04-12:14:52.984 3e03 Reusing old log /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/Local Storage/leveldb/000018.log 
+2023/08/04-12:14:53.047 3e03 Delete type=0 #14
+2023/08/04-12:14:53.058 3e03 Delete type=2 #19

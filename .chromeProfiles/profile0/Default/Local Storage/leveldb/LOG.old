@@ -1,3 +1,5 @@
-2023/08/02-16:55:33.640 3f03 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/Local Storage/leveldb/MANIFEST-000001
-2023/08/02-16:55:33.647 3f03 Recovering log #12
-2023/08/02-16:55:33.654 3f03 Reusing old log /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/Local Storage/leveldb/000012.log 
+2023/08/04-12:12:07.191 2c03 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/04-12:12:07.212 2c03 Recovering log #14
+2023/08/04-12:12:07.219 2c03 Reusing old log /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/Local Storage/leveldb/000014.log 
+2023/08/04-12:12:55.549 4003 Level-0 table #19: started
+2023/08/04-12:12:55.771 4003 Level-0 table #19: 13560 bytes OK
