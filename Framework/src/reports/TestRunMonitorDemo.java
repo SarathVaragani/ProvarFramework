@@ -57,9 +57,9 @@ public class TestRunMonitorDemo extends AbstractTestRunMonitor {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
+    }
     
-    //@Override
+  /*  //@Override
    // public void writeTestRunSummary(IExecutionItem rootExecutionItem) {
         try {
             pdfExporter.exportExecutionItem(getRuntimeConfiguration(), (reportsDir.getAbsoluteFile() + "\\" + "Summary.pdf"), rootExecutionItem, getTestArtifactsPath(), testCaseReportingOptions, null, false, "pdf",fileWriter, ",", testExec.getRunId());
@@ -73,4 +73,4 @@ public class TestRunMonitorDemo extends AbstractTestRunMonitor {
             e.printStackTrace();
         }
     }
-} 
+} */
