@@ -36,6 +36,14 @@
             <connectionUrl envName="UAT" secureStorageNodeId="8da94b55-407f-44ff-afc4-fc926f0d7b87" url="sf:user=sarathvaragani@deloitte.co.uk.yhtest;password={password};environment=SANDBOX;userLoginUrl=https://d8d000008efr1eac--yhtest.sandbox.my.salesforce.com/;lightningMode=true"/>
           </connectionUrls>
         </connection>
+        <connection id="41c82f1a-f17a-4eb3-ace1-d2a25fb8b02f" name="YHTest_AB7_Admin">
+          <summary/>
+          <connectionUrls>
+            <connectionUrl secureStorageNodeId="1f78f0e6-539c-4f13-b072-da49d0ae6610" url="sf:user=abudmewar@deloitte.com.yhtest;password={password};securityToken={securityToken};environment=SANDBOX;userLoginUrl=https://d8d000008efr1eac--yhtest.sandbox.my.salesforce.com/;lightningMode=true"/>
+            <connectionUrl envName="QA" secureStorageNodeId="81fa3f7f-8a6b-4960-9974-d7e36d5c2bf8" url="sf:user=abudmewar@deloitte.com.yhtest;password={password};securityToken={securityToken};environment=SANDBOX;userLoginUrl=https://d8d000008efr1eac--yhtest.sandbox.my.salesforce.com/;lightningMode=true"/>
+            <connectionUrl envName="UAT" secureStorageNodeId="04866c6c-3edd-46b0-8cd8-7801079b43c1" url="sf:user=abudmewar@deloitte.com.yhtest;password={password};securityToken={securityToken};environment=SANDBOX;userLoginUrl=https://d8d000008efr1eac--yhtest.sandbox.my.salesforce.com/;lightningMode=true"/>
+          </connectionUrls>
+        </connection>
       </connections>
     </connectionClass>
     <connectionClass name="webservice">
