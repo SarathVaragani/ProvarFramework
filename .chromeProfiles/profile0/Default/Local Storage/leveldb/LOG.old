@@ -1,8 +1,2 @@
-2023/08/04-12:14:52.874 3e03 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/Local Storage/leveldb/MANIFEST-000001
-2023/08/04-12:14:52.907 3e03 Recovering log #14
-2023/08/04-12:14:52.927 3e03 Level-0 table #18: started
-2023/08/04-12:14:52.968 3e03 Level-0 table #18: 13560 bytes OK
-2023/08/04-12:14:52.981 3e03 Recovering log #18
-2023/08/04-12:14:52.984 3e03 Reusing old log /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/Local Storage/leveldb/000018.log 
-2023/08/04-12:14:53.047 3e03 Delete type=0 #14
-2023/08/04-12:14:53.058 3e03 Delete type=2 #19
+2023/08/09-17:36:11.779 519c Creating DB C:\Users\abudmewar\Documents\Yorkshire Housing\Training Instance\ProvarFramework\.chromeProfiles\profile0\Default\Local Storage\leveldb since it was missing.
+2023/08/09-17:36:11.864 519c Reusing MANIFEST C:\Users\abudmewar\Documents\Yorkshire Housing\Training Instance\ProvarFramework\.chromeProfiles\profile0\Default\Local Storage\leveldb/MANIFEST-000001
