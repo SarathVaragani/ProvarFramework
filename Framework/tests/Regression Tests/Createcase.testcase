@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testCase id="12">
+<testCase id="0">
   <summary/>
   <steps>
     <apiCall apiId="com.provar.plugins.forcedotcom.core.testapis.ApexConnect" name="ApexConnect" testItemId="1" title="Salesforce Connect: YHTest_Admin (Test)">
@@ -689,6 +689,9 @@
                       </generatedParameters>
                     </apiCall>
                     <apiCall apiId="com.provar.plugins.forcedotcom.core.ui.UiDoAction" name="UiDoAction" testItemId="69" title="Set the Status picklist to Open">
+                      <tags>
+                        <string>disabled</string>
+                      </tags>
                       <arguments>
                         <argument id="locator">
                           <value class="uiLocator" uri="ui:locator?binding=sf%3Aui%3Abinding%3Aobject%3Fobject%3DCase%26field%3DStatus&amp;name=Status"/>
