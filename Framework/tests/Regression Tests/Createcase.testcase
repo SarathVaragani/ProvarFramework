@@ -688,10 +688,8 @@
                         </apiParam>
                       </generatedParameters>
                     </apiCall>
-                    <apiCall apiId="com.provar.plugins.forcedotcom.core.ui.UiDoAction" name="UiDoAction" testItemId="69" title="Set the Status picklist to Open">
-                      <tags>
-                        <string>disabled</string>
-                      </tags>
+                    <apiCall apiId="com.provar.plugins.forcedotcom.core.ui.UiDoAction" name="UiDoAction" testItemId="69" title="Set the Status picklist to New">
+                      <tags/>
                       <arguments>
                         <argument id="locator">
                           <value class="uiLocator" uri="ui:locator?binding=sf%3Aui%3Abinding%3Aobject%3Fobject%3DCase%26field%3DStatus&amp;name=Status"/>
@@ -700,7 +698,7 @@
                           <value class="uiInteraction" uri="ui:interaction?name=set"/>
                         </argument>
                         <argument id="value">
-                          <value class="value" valueClass="string">Open</value>
+                          <value class="value" valueClass="string">New</value>
                         </argument>
                         <argument id="blur">
                           <value class="value" valueClass="boolean">false</value>
@@ -721,7 +719,7 @@
                           <value class="uiWait" uri="default"/>
                         </argument>
                         <argument id="interactionDescription">
-                          <value class="value" valueClass="string">Set the Status picklist to Open</value>
+                          <value class="value" valueClass="string">Set the Status picklist to New</value>
                         </argument>
                         <argument id="autoRetry"/>
                       </arguments>
@@ -731,7 +729,7 @@
                           <type>
                             <choiceType>
                               <constraints>
-                                <valueConstraint name="boundedValues">New:New|Open:Open|In Progress:In Progress|Waiting for Acknowledgement:Waiting for Acknowledgement|Investigating:Investigating|Awaiting information from customer:Awaiting information from customer|On Hold:On Hold|Escalated:Escalated|Actioning Ombudsman Requests:Actioning Ombudsman Requests|Awaiting Details from Internal Team:Awaiting Details from Internal Team|Awaiting Reply from Ombudsman:Awaiting Reply from Ombudsman|Extension Requested:Extension Requested|Orders &amp; Recommendations:Orders &amp; Recommendations|Closed - actions outstanding:Closed - actions outstanding|Closed:Closed|Cancelled:Cancelled|Stage 2:Stage 2|Enquiry:Enquiry|Stage 1:Stage 1|Closed with Pending Actions:Closed with Pending Actions|Closed with Dispute:Closed with Dispute|Re-Opened:Re-Opened|Cancel:Cancel</valueConstraint>
+                                <valueConstraint name="boundedValues">New:New|Open:Open|In Progress:In Progress|Waiting for Acknowledgement:Waiting for Acknowledgement|Investigating:Investigating|Awaiting information from customer:Awaiting information from customer|On Hold:On Hold|Escalated:Escalated|Actioning Ombudsman Requests:Actioning Ombudsman Requests|Awaiting Details from Internal Team:Awaiting Details from Internal Team|Awaiting Reply from Ombudsman:Awaiting Reply from Ombudsman|Extension Requested:Extension Requested|Orders &amp; Recommendations:Orders &amp; Recommendations|Closed - actions outstanding:Closed - actions outstanding|Closed:Closed|Cancelled:Cancelled|Stage 2:Stage 2|Complaint:Complaint|Stage 1:Stage 1|Closed with Pending Actions:Closed with Pending Actions|Closed with Dispute:Closed with Dispute|Re-Opened:Re-Opened|Cancel:Cancel</valueConstraint>
                                 <valueConstraint name="unrestricted">true</valueConstraint>
                               </constraints>
                             </choiceType>
