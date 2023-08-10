@@ -1,3 +1,24 @@
-2023/08/10-12:41:10.012 8420 Reusing MANIFEST C:\Users\abudmewar\Documents\Yorkshire Housing\Training Instance\ProvarFramework\.chromeProfiles\profile0\Default\Local Storage\leveldb/MANIFEST-000001
-2023/08/10-12:41:10.020 8420 Recovering log #3
-2023/08/10-12:41:10.055 8420 Reusing old log C:\Users\abudmewar\Documents\Yorkshire Housing\Training Instance\ProvarFramework\.chromeProfiles\profile0\Default\Local Storage\leveldb/000003.log 
+2023/08/10-11:17:00.192 2f03 Reusing MANIFEST /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/10-11:17:00.198 2f03 Recovering log #41
+2023/08/10-11:17:00.199 2f03 Reusing old log /Users/sarathvaragani/Library/CloudStorage/OneDrive-Deloitte(O365D)/Desktop/ProvarFramework/.chromeProfiles/profile0/Default/Local Storage/leveldb/000041.log 
+2023/08/10-11:20:09.739 3603 Level-0 table #45: started
+2023/08/10-11:20:09.750 3603 Level-0 table #45: 8857 bytes OK
+2023/08/10-11:20:09.792 3603 Delete type=0 #41
+2023/08/10-11:20:09.794 2f03 Compacting 4@0 + 1@1 files
+2023/08/10-11:20:09.827 2f03 Generated table #46@0: 24 keys, 10044 bytes
+2023/08/10-11:20:09.827 2f03 Compacted 4@0 + 1@1 files => 10044 bytes
+2023/08/10-11:20:09.865 2f03 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/08/10-11:20:09.867 2f03 Delete type=2 #39
+2023/08/10-11:20:09.867 2f03 Delete type=2 #34
+2023/08/10-11:20:09.867 2f03 Delete type=2 #37
+2023/08/10-11:20:09.867 2f03 Delete type=2 #42
+2023/08/10-11:20:09.867 2f03 Delete type=2 #45
+2023/08/10-11:22:09.742 3603 Level-0 table #48: started
+2023/08/10-11:22:09.766 3603 Level-0 table #48: 7889 bytes OK
+2023/08/10-11:22:09.812 3603 Delete type=0 #44
+2023/08/10-11:24:09.746 3603 Level-0 table #50: started
+2023/08/10-11:24:09.781 3603 Level-0 table #50: 8132 bytes OK
+2023/08/10-11:24:09.829 3603 Delete type=0 #47
+2023/08/10-11:25:47.426 3603 Level-0 table #52: started
+2023/08/10-11:25:47.470 3603 Level-0 table #52: 7448 bytes OK
+2023/08/10-11:25:47.520 3603 Delete type=0 #49

@@ -11,6 +11,7 @@ import com.provar.testrunner.ITestRunExporter;
 import com.provar.testrunner.api.IExecutionItem;
 import com.provar.testrunner.exporters.TestCaseReportingOptions;
 
+@SuppressWarnings("unused")
 public class TestRunMonitorDemo extends AbstractTestRunMonitor {
     @TestRunExporter
     private ITestRunExporter pdfExporter;
@@ -25,7 +26,8 @@ public class TestRunMonitorDemo extends AbstractTestRunMonitor {
     FileWriter fileWriter = null;
     String fileName = "ProvarTestRunExport";
     static int i = 1;
-    TestCaseReportingOptions testCaseReportingOptions = new TestCaseReportingOptions(true, false, false, false, false, false, false, false, false);
+    @SuppressWarnings("deprecation")
+	TestCaseReportingOptions testCaseReportingOptions = new TestCaseReportingOptions(true, false, false, false, false, false, false, false, false);
     
     File reportsDir ;
         
@@ -35,13 +37,7 @@ public class TestRunMonitorDemo extends AbstractTestRunMonitor {
             reportsDir.mkdirs();
         }
         pdfPath = this.testExec.getProjectPath();
-        try {
-            fileWriter = new FileWriter(reportsDir.getAbsoluteFile() + "\\" + fileName + ".csv", false);
-            fileWriter.write("run id, started, ended, path, name, successful, skipped, failed, total, failure Message\n");
-            fileWriter.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        
     }
     
     @Override
@@ -58,20 +54,12 @@ public class TestRunMonitorDemo extends AbstractTestRunMonitor {
             e.printStackTrace();
         }
     }
+
+	@Override
+	public void writeTestRunSummary(IExecutionItem arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
     
-  /*  //@Override
-   // public void writeTestRunSummary(IExecutionItem rootExecutionItem) {
-        try {
-            pdfExporter.exportExecutionItem(getRuntimeConfiguration(), (reportsDir.getAbsoluteFile() + "\\" + "Summary.pdf"), rootExecutionItem, getTestArtifactsPath(), testCaseReportingOptions, null, false, "pdf",fileWriter, ",", testExec.getRunId());
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        try {
-            fileWriter = new FileWriter(reportsDir.getAbsoluteFile() + "\\" + fileName + ".csv", true);
-            csvExporter.exportExecutionSummary(rootExecutionItem, fileWriter, ",");    
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
-} */
