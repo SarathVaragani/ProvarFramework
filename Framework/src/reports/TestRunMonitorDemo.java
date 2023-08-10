@@ -48,7 +48,7 @@ public class TestRunMonitorDemo extends AbstractTestRunMonitor {
             e.printStackTrace();
         }
         try {
-            fileWriter = new FileWriter(reportsDir.getAbsoluteFile() + "\\" + fileName + ".csv", true);
+            fileWriter = new FileWriter(reportsDir.getAbsoluteFile() + "//" + fileName + ".csv", true);
             csvExporter.exportExecutionItem(null, null, executionItem, null, null, null, false, "csv" , fileWriter, ",", testExec.getRunId());    
         } catch (Exception e) {
             e.printStackTrace();
