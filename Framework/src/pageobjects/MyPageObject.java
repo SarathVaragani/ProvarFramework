@@ -13,5 +13,12 @@ import com.provar.core.testapi.annotations.*;
      , connection="YHTest_Admin"
      )             
 public class MyPageObject {
+
+	@LinkType()
+	@FindBy(xpath = "//a[normalize-space(.)='Leads']")
+	public WebElement leads;
+	@ButtonType()
+	@FindBy(xpath = "//div[contains(@class,'active') and contains(@class,'oneContent')]//button[normalize-space(.)='New']")
+	public WebElement new_;
 			
 }
